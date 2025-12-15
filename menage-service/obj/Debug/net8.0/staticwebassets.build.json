@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qyb98v41UlLZowTc0EoM7Q1Xq0341v6+k8WZrgdCtb4=",
+  "Source": "menage-service",
+  "BasePath": "_content/menage-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
